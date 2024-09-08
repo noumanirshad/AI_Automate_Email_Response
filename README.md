@@ -1,6 +1,8 @@
 # AI_Automate_Email_Response
 This project aims to automate repetitive email inquiries using AI. It leverages IMAP, analyzes email content, suggests responses, and learns from user feedback. This improves efficiency, consistency, and scalability.
 
+This source code for a web-based software solution designed to streamline and automate the process of handling repetitive email inquiries received at a company's info@ email address. Leveraging IMAP functionality and artificial intelligence (AI), the system extracts incoming emails, analyzes them, and provides suggested responses. Over time, through user feedback and interaction, the AI continuously learns and improves its accuracy, ultimately enabling the automation of responses to certain inquiries.
+
 # Key Features:
 
 * IMAP integration for retrieving incoming emails
@@ -36,4 +38,13 @@ This project aims to automate repetitive email inquiries using AI. It leverages 
 
 # Technologies:
 
-* [List of technologies used, e.g., Python, Flask, TensorFlow, NLTK, IMAP library]
+* [Python, Flask, TensorFlow, NLTK, IMAP library]
+
+# Getting Started:
+
+
+# Contributing:
+
+# License:
+
+* MIT License
